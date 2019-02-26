@@ -8,4 +8,4 @@ Learn more about Boogie: https://www.reddit.com/r/SamandTolki/comments/ajzm5h/th
 
 2019-02-25: An error with archive.today resulted in missing a handful of tweets at the worst time. At least one of the missed tweets was deleted by Boogie following some backlash. The problem has been fixed.
 
-2019-02-25: A second repo is setup where another bot is currently in the process of collecting older tweets. (I think Twitter limits regular developer API access to 3,200 tweets.)
+2019-02-25: A second repo is available with all of the tweets the API can access were backed up as well. Find that here: https://github.com/absolute-beginner/pasttweetarchive
